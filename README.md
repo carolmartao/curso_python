@@ -25,12 +25,20 @@ x = 8
 print (x, type(x))
 ```
 
-####
+#### Operações 
+
 ```sh
 print (x + 3)   # Adição;
 print (x - 3)   # Subtração;
 print (x * 3)   # Multiplicação;
 print (x ** 3)  # Exponenciação;
+```
+
+```sh
+x += 1
+print (x)
+x *= 2
+print (x)
 ```
 
 ### Booleanos

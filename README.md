@@ -21,8 +21,16 @@
 Semelhante à outras linguagens, Python apresenta tipo inteiro e de ponto flutuante:
 
 ```sh
-x = 3
+x = 8
 print (x, type(x))
+```
+
+####
+```sh
+print (x + 3)   # Adição;
+print (x - 3)   # Subtração;
+print (x * 3)   # Multiplicação;
+print (x ** 3)  # Exponenciação;
 ```
 
 ### Booleanos

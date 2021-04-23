@@ -41,6 +41,18 @@ x *= 2
 print (x)
 ```
 
+```sh
+y = x / 2
+print (type(y))
+print (y, y + 1, y * 2, y ** 2)
+```
+
+Veja que Python não tem operadores de incremento e decremento unitário (x++)
+
+> Exercício 1
+
+
+
 ### Booleanos
 
 ### Strings

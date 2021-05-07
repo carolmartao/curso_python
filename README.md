@@ -8,6 +8,21 @@
   
   Em outras linguagens, é muito comum o uso intensivo de marcações (;, .), marcadores (chaves, colchetes) e palavras específicas como begin e end. E Python tem legibilidade como uma das principais características, onde o uso destes recursos é reduzido, resultando em uma linguagem limpa e de leitura mais fácil. Python é uma linguagem de alto nível e dinamicamente tipada, é bastante semelhante a um pseudocódigo, onde se pode expressar ideias complexas em poucas linhas de código.
   
+  ### Quem usa Python?
+  * Pessoas que já sabem programar
+  * Pessoas que querem aprender a programar
+  * 80% dos programadores no mundo todo!
+  * Python é muito usado em Data Science, AI, Machine Learning, web development e IoT (internet of things).
+  * Grandes empresas como Google, NASA, CERN, Facebook, Amazon e Instagram
+
+  ### O que torna Python incrível?
+  * Linguágem de propósito genérico
+  * Bibliotecas amplamente padronizadas
+
+  ### Quais as Bibliotecas mais interessantes?
+  * Pandas, NumPy, SciPy e Matplotlib: computação científica
+  * PyTorch, TensorFlow, Keras e Scikit-learn: inteligência artificial
+  * Linguagem Natural (NLP) através do Natural Language ToolKit (NLTK)
 
 
 ## Versões de Python
